@@ -1,0 +1,9 @@
+t/01_standard.t
+t/02_your_db.t
+lib/DBIx/MyPassword.pm
+Makefile.PL
+MANIFEST
+INSTALL
+README
+README.html
+GPL
