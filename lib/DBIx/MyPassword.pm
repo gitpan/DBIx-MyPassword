@@ -9,7 +9,7 @@ use Text::CSV;
 use File::Spec;
 
 @DBIx::MyPassword::ISA = qw ( DBI::db );
-$DBIx::MyPassword::VERSION = '0.10';
+$DBIx::MyPassword::VERSION = '1.01';
 
 my $PASSFILE   = '.mypassword'; #--> Name of the password file that we are looking for
 my $ENV_VAR    = 'MYPASSWORD';  #--> Name of environment variable that can point to override file
