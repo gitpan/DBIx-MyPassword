@@ -1,6 +1,12 @@
-### 2004-09-26 ###
+### 2006-09-09 version 1.02 ### 
 
-General cleanup of distribution in order to raise kwalitee of the code.  For this version that includes: 
+Included perlcritic tests, which caused me to need to fix quite a bit 
+of my code.  Also, it seems that my cpants score is okay now.
+
+### 2004-09-26 version 1.01 ###
+
+General cleanup of distribution in order to raise kwalitee of the code.
+For this version that includes: 
 
 - has_changelog: you're looking at it
 - has_meta_yml
@@ -9,6 +15,8 @@ General cleanup of distribution in order to raise kwalitee of the code.  For thi
 
 But can't help:
 
-- extracts_nicely: can't understand why this is a problem... I'm extracting into a subdirectory
+- extracts_nicely: can't understand why this is a problem... I'm 
+extracting into a subdirectory
+
 - is_prereq: not much that I can do here
 

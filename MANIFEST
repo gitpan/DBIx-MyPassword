@@ -1,9 +1,10 @@
+ARTISTIC
 Changes
 GPL
 INSTALL
 Makefile.PL
 MANIFEST
-META.yml
+MANIFEST.SKIP
 README
 README.html
 lib/DBIx/MyPassword.pm
@@ -11,3 +12,4 @@ t/01_standard.t
 t/02_your_db.t
 t/03_pod.t
 t/04_pod_coverage.t
+META.yml                                 Module meta-data (added by MakeMaker)
